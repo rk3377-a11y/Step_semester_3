@@ -1,5 +1,15 @@
 ## Date: 05-09-2026
 **Today's Work:**
+- Completed Session 4 on topic "Arrays": 5 class problems (Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, Rotate Array) and 5 assignment problems (Product of Array Except Self, Maximum Subarray, 3Sum, Subarray Sum Equals K, Find Minimum in Rotated Sorted Array).
+
+**Next Session Plan:**
+- Start Session 5 topic
+
+**Issues Faced:**
+- None
+---
+## Date: 05-09-2026
+**Today's Work:**
 - Completed Session 3 on topic "Control Flow": 5 class problems (Prime Number Checker, Right-Angled Triangle Pattern, Palindrome Number Checker, GCD Calculator, Armstrong Number Checker) and 5 assignment problems (Voting Eligibility Checker, Print Numbers 1 to N, Grade Classifier With Attendance, Login Attempt Simulator, Number Pyramid Pattern Printer).
 
 **Next Session Plan:**
