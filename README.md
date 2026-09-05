@@ -1,5 +1,15 @@
 ## Date: 05-09-2026
 **Today's Work:**
+- Completed Session 3 on topic "Control Flow": 5 class problems (Prime Number Checker, Right-Angled Triangle Pattern, Palindrome Number Checker, GCD Calculator, Armstrong Number Checker) and 5 assignment problems (Voting Eligibility Checker, Print Numbers 1 to N, Grade Classifier With Attendance, Login Attempt Simulator, Number Pyramid Pattern Printer).
+
+**Next Session Plan:**
+- Start Session 4 topic
+
+**Issues Faced:**
+- Accidentally created files in the wrong subfolder while using cat heredoc commands — resolved by moving them to the correct location with mv.
+---
+## Date: 05-09-2026
+**Today's Work:**
 - Completed Session 2 on topic "String": 5 class problems (Vowel & Consonant Counter, CSV Student Record Parser, File Extension Validator, Masked Phone Number Formatter, Bank Transaction Reference Generator & Validator) and 5 assignment problems (ATM PIN Length Validator, Word Reversal Encoder, Product Inventory CSV Parser, Library ISBN Normalizer & Validator, Stop-Word-Filtered Word Frequency Report).
 
 **Next Session Plan:**
