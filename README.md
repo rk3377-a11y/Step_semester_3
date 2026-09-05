@@ -1,5 +1,15 @@
 ## Date: 05-09-2026
 **Today's Work:**
+- Completed Session 5 on topic "Methods": 5 class problems (Hackathon Score Curve Booster, Duplicate Team Name Finder, Top-3 Podium Finder, Hackathon Seating Grid Optimizer, Placement Drive Shortlisting & Ranking Engine) and 5 assignment problems (Fantasy Team Score Multiplier, Duplicate Player Pick Checker, Top Performer Tracker, Match Day Grid Analyzer, Fantasy League Auto-Draft Ranking Engine).
+
+**Next Session Plan:**
+- Start Session 6 topic
+
+**Issues Faced:**
+- None
+---
+## Date: 05-09-2026
+**Today's Work:**
 - Completed Session 4 on topic "Arrays": 5 class problems (Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, Rotate Array) and 5 assignment problems (Product of Array Except Self, Maximum Subarray, 3Sum, Subarray Sum Equals K, Find Minimum in Rotated Sorted Array).
 
 **Next Session Plan:**
