@@ -1,3 +1,13 @@
+## Date: 05-09-2026
+**Today's Work:**
+- Completed Session 2 on topic "String": 5 class problems (Vowel & Consonant Counter, CSV Student Record Parser, File Extension Validator, Masked Phone Number Formatter, Bank Transaction Reference Generator & Validator) and 5 assignment problems (ATM PIN Length Validator, Word Reversal Encoder, Product Inventory CSV Parser, Library ISBN Normalizer & Validator, Stop-Word-Filtered Word Frequency Report).
+
+**Next Session Plan:**
+- Start Session 3 topic
+
+**Issues Faced:**
+- Accidentally created a nested duplicate folder while using mkdir — resolved by deleting the duplicate and recreating files in the correct path.
+---
 ## Date: 04-09-2026
 **Today's Work:**
 - Completed Session 1 on topic "String": 5 class problems (Rock-Paper-Scissors, Palindrome Checker, BMI Calculator, First Non-Repeating Character, Reverse Customer Name) and 5 assignment problems (Seat Duplication Checker, Typing Accuracy Checker, Traffic Signal Streak Analyzer, Warehouse Inventory Balancer, Movie Review Word Length Profiler).
