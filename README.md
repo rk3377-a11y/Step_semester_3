@@ -1,7 +1,7 @@
 ## Date: 17-10-2026
 
 **Today's Work:**
-- Completed Session 10 (Data Structure, Category C): 10 practice problems (VowelConsonantCounter, WordReverserPalindrome, EvenOddCounter, InPlaceReversal, DigitSumReverse, PrimeChecker, FactorialCalculation, StudentGradeAssignment, LeapYearDetector, StudentResultCard) and 3 assignment problems (BusiestBusRow, ClassAttendanceTracker, DutyRosterRotation)
+- Completed Session 10 (Data Structure, Category C): 10 practice problems (VowelConsonantCounter, WordReverserPalindrome, EvenOddCounter, InPlaceReversal, DigitSumReverse, PrimeChecker, FactorialCalculation, StudentGradeAssignment, LeapYearDetector, StudentResultCard) and 4 assignment problems (BusiestBusRow, ClassAttendanceTracker, DutyRosterRotation, SecondBestScore)
 
 **Next Session Plan:**
 - Move on to next topic per STEP schedule
