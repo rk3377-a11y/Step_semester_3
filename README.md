@@ -1,3 +1,17 @@
+## Date: 17-10-2026
+
+**Today's Work:**
+- Completed Session 9 (Abstraction & Interface, Category C): 5 practice problems (GardenPlotArea, WeeklyStaffPay, LibraryLateFine, ElectricityBilling, TravelBooking) and 5 assignment problems (MovieTicketCounter, ParcelShipping, CollegeFeeCounter, CabFareMeter, ApplianceEnergyReport)
+- Completed Session 8 (Polymorphism, Category C): 5 practice problems (PaymentFee, LibraryDueDate, DeliveryFee, ExamGrader, TransportFare) and 5 assignment problems (CanteenBilling, ParkingCharge, HostelElectricity, FestivalBonus, StreamingRenewal)
+
+**Next Session Plan:**
+- Move on to next topic per STEP schedule
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 22-09-2026
 **Today's Work:**
 - Completed Session 7 (Encapsulation & Access Control, Category C): 5 practice problems (PiggyBank, Scorecard, NameTag, Locker, AttendanceSheet) and 5 assignment problems (Character, Playlist, PasswordChecker, TrafficLight, Cart)
